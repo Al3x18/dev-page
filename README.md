@@ -2,11 +2,11 @@
   <img src="./blueprint-dev-icon.jpg" alt="Alex De Pasquale Logo" width="350"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Alex De Pasquale!</h1>
+<h1 align="center">Hi 👋, I'm <u>Alex De Pasquale!</u></h1>
 
 <p align="center">
-  Versatile developer with solid experience in **Flutter**, **Python**, and **Java**.<br/>
-  Currently diving deeper into native iOS development with **Swift** and web interfaces with **React**, always aiming to build efficient software solutions and intuitive apps.
+  Versatile developer with solid experience in <strong>Flutter</strong>, <strong>Python</strong>, and <strong>Java</strong>.<br/>
+  Currently diving deeper into native iOS development with <strong>Swift</strong> and web interfaces with <strong>React</strong>, always aiming to build efficient software solutions and intuitive apps.
 </p>
 
 <p align="center">
